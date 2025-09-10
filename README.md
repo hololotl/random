@@ -72,7 +72,7 @@ t = $`\sqrt{rtp*2*9999 + 1}`$
 
 для задачи был выбран Constant + Uniform Noise, для самостоятельного запуска всех тестов, запустите и посмотрите вывод в консоли
    ```bash
-   cd algoritms
+   cd algorithms
    go test -v
 
 
